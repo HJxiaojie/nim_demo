@@ -1,0 +1,4 @@
+#Sun Oct 08 17:12:05 GMT+08:00 2017
+base.0=E\:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=E\:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

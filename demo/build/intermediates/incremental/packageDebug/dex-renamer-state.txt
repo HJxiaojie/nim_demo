@@ -1,0 +1,7 @@
+#Sun Oct 08 17:12:05 GMT+08:00 2017
+base.0=E\:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ba19396d0c66bfc0592ea249c1d9d6051ffeb15f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7bbc89e4df5c9439744631f403cdc612887813cc\\classes.dex
+base.1=E\:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7bbc89e4df5c9439744631f403cdc612887813cc
+file.0=E\:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ba19396d0c66bfc0592ea249c1d9d6051ffeb15f\\classes.dex
