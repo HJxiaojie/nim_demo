@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\software\\SmartGit Clone\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\menu\\contacts_search_menu.xml",
+        "source": "E:\\software\\SmartGit Clone\\nim_demo\\uikit\\res\\menu\\contacts_search_menu.xml"
+    },
+    {
         "merged": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\menu\\contacts_search_menu.xml",
         "source": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\uikit\\res\\menu\\contacts_search_menu.xml"
     }

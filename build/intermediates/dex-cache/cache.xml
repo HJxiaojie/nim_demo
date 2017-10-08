@@ -12,6 +12,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\uikit\build\intermediates\bundles\default\libs\nim-basesdk-4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="10e506aaffb1fe9d9779564b717b93f987ff539a">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\8\nim-basesdk-4.2.0_75aae8a2d52179a388b530e8b0d88e4c182fb1ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\jrmfneteaselib\build\intermediates\bundles\default\libs\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dcb217664fa715d6529a1028977b28de939f29bc">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\8\okio-1.13.0_f876b8295c08415b898dd07d6d2934840bdf00eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\development\NIM_Android_Demo_v4.2.0\nim_demo\jrmfneteaselib\build\intermediates\bundles\default\libs\okhttp-3.8.0.jar"
         jumboMode="true"
         optimize="true"
@@ -27,6 +45,24 @@
         revision="25.0.3"
         sha1="dda79566e3bd62f71664170a6d34773ee707c0da">
         <dex dex="E:\development\NIM_Android_Demo_v4.2.0\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\10\classes_487fc72d3ab513c9b50cabcd7a3860c543017ea5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\demo\libs\nim-rts-4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c4b11b10a11b5c32607f5aff86178611aca7102">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\2\nim-rts-4.2.0_ceebfe203d4200a85b7977b02d46837855aa073b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\jrmfneteaselib\build\intermediates\bundles\default\libs\alipaySingle-20170510.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b8e1e398d5f2f639780c33c3a4109b9cd2f942bd">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\8\alipaySingle-20170510_0db1ee81bab87e71574b16d087f0077e32c0508f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,12 +165,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\uikit\build\intermediates\bundles\default\libs\nim-avchat-4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="daeb1473c2cda9d517afa1daaf1ea8584b3ba295">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\8\nim-avchat-4.2.0_0a176ce5ce5c72ee31617013972e5d217773bea1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Administrator\.android\build-cache\ca8928e2041b989ef518286c66a23ef6a92d7712\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
         <dex dex="E:\development\NIM_Android_Demo_v4.2.0\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a044a4b9b2dcf95374282cc67f816616fb95263\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\jrmfneteaselib\build\intermediates\bundles\default\libs\okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1f0c50b2be15793fcca796bcc0d7f889721a6e0">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\8\okhttp-3.8.0_4d1eebcb42d5f164d11ac234a2d73c3f3cbcfc12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\demo\libs\AMap2DMap_3.0.0_AMapSearch_3.6.1_AMapLocation_3.2.1_20161228.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="53d166deda851be3bdac6909e4d112b7f34bdca6">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\2\AMap2DMap_3.0.0_AMapSearch_3.6.1_AMapLocation_3.2.1_20161228_a5a79d5f5b4db21363d1839ae59d8f1a18e6ad39\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -162,6 +225,24 @@
         revision="25.0.3"
         sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
         <dex dex="E:\development\NIM_Android_Demo_v4.2.0\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\jrmfneteaselib\build\intermediates\bundles\default\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75fb6772ed8fac36bd9107c813c8607b43351818">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\8\libammsdk_75b64f17bb5f6ef880a423b5b378a271e0bae012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1f28e7b10c8ef635633bee26008449a67a21bda2">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_47542c0afdacead932155945c838f6c9efe3a3c3\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -264,6 +345,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\demo\libs\nim-chatroom-4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c1354ac0805023418f674b7f5d0945e5f92d4b0">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\2\nim-chatroom-4.2.0_c4b03e13d89c591f1b11d2aae7e45ce35291e4b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Administrator\.android\build-cache\14701fb95a12655031ab0f087532a3fe86280c8c\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -342,6 +432,15 @@
         revision="25.0.3"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
         <dex dex="E:\development\NIM_Android_Demo_v4.2.0\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_dfcfaddf22ed1d62f5a37f94256656efc7c9aa8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_65e978dade7c201bc1cffff7630ac832e2d9805a\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -426,12 +525,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\demo\libs\mi_push_sdk_3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="74c4db77df1c064b6ae16fbecb575c029971ab96">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\2\mi_push_sdk_3.2.2_b7f9833e9cd3cfd79f23c14bc6c26374f52eef0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\demo\libs\nrtc-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="259a45f2f307f072a4323ebdd8262be578d8d07e">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\2\nrtc-sdk_3979f9788a64c00bdf26e577899c454538ad51cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\demo\libs\video_effect.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3d6798dc8ceeda18241f81dcb7e844c918c46c71">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\2\video_effect_a1f8541e514dd280896bb22c6f586bede51aa360\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Administrator\.android\build-cache\112610e408366e0762412077c0a835f916b64731\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
         <dex dex="E:\development\NIM_Android_Demo_v4.2.0\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\10\classes_105a4fd28bc80555b848f1111619a1646f694e25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\software\SmartGit Clone\nim_demo\faceunity\build\intermediates\bundles\default\libs\nama.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a21299687d9ffc73c9e700f471410a402d109fab">
+        <dex dex="E:\software\SmartGit Clone\nim_demo\demo\build\intermediates\transforms\dex\debug\folders\1000\8\nama_509fd604f0380f577ccd32195c077cbd2bada192\classes.dex" />
     </item>
 
 </items>

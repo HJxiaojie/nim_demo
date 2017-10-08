@@ -4,6 +4,10 @@
         "source": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\jrmfneteaselib\\src\\main\\res\\anim\\jrmf_rp_slide_right_out.xml"
     },
     {
+        "merged": "E:\\software\\SmartGit Clone\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_rp_slide_right_out.xml",
+        "source": "E:\\software\\SmartGit Clone\\nim_demo\\jrmfneteaselib\\src\\main\\res\\anim\\jrmf_rp_slide_right_out.xml"
+    },
+    {
         "merged": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_w_actionsheet_dialog_in.xml",
         "source": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\jrmfneteaselib\\src\\main\\res\\anim\\jrmf_w_actionsheet_dialog_in.xml"
     },
@@ -12,11 +16,27 @@
         "source": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\jrmfneteaselib\\src\\main\\res\\anim\\jrmf_rp_slide_right_in.xml"
     },
     {
+        "merged": "E:\\software\\SmartGit Clone\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_rp_fade_out.xml",
+        "source": "E:\\software\\SmartGit Clone\\nim_demo\\jrmfneteaselib\\src\\main\\res\\anim\\jrmf_rp_fade_out.xml"
+    },
+    {
+        "merged": "E:\\software\\SmartGit Clone\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_w_actionsheet_dialog_out.xml",
+        "source": "E:\\software\\SmartGit Clone\\nim_demo\\jrmfneteaselib\\src\\main\\res\\anim\\jrmf_w_actionsheet_dialog_out.xml"
+    },
+    {
+        "merged": "E:\\software\\SmartGit Clone\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_w_actionsheet_dialog_in.xml",
+        "source": "E:\\software\\SmartGit Clone\\nim_demo\\jrmfneteaselib\\src\\main\\res\\anim\\jrmf_w_actionsheet_dialog_in.xml"
+    },
+    {
         "merged": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_w_actionsheet_dialog_out.xml",
         "source": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\jrmfneteaselib\\src\\main\\res\\anim\\jrmf_w_actionsheet_dialog_out.xml"
     },
     {
         "merged": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_rp_fade_out.xml",
         "source": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\jrmfneteaselib\\src\\main\\res\\anim\\jrmf_rp_fade_out.xml"
+    },
+    {
+        "merged": "E:\\software\\SmartGit Clone\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_rp_slide_right_in.xml",
+        "source": "E:\\software\\SmartGit Clone\\nim_demo\\jrmfneteaselib\\src\\main\\res\\anim\\jrmf_rp_slide_right_in.xml"
     }
 ]

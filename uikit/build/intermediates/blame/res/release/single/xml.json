@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\software\\SmartGit Clone\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\xml\\provider_paths.xml",
+        "source": "E:\\software\\SmartGit Clone\\nim_demo\\uikit\\res\\xml\\provider_paths.xml"
+    },
+    {
         "merged": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\xml\\provider_paths.xml",
         "source": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\uikit\\res\\xml\\provider_paths.xml"
     }

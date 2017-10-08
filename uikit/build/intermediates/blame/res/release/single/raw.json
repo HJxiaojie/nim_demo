@@ -2,5 +2,9 @@
     {
         "merged": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\raw\\audio_end_tip.wav",
         "source": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\uikit\\res\\raw\\audio_end_tip.wav"
+    },
+    {
+        "merged": "E:\\software\\SmartGit Clone\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\raw\\audio_end_tip.wav",
+        "source": "E:\\software\\SmartGit Clone\\nim_demo\\uikit\\res\\raw\\audio_end_tip.wav"
     }
 ]

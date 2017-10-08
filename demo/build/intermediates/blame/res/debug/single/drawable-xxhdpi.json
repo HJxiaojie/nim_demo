@@ -1,7 +1,15 @@
 [
     {
+        "merged": "E:\\software\\SmartGit Clone\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\t_avchat_avatar_default.png",
+        "source": "E:\\software\\SmartGit Clone\\nim_demo\\demo\\res\\drawable-xxhdpi\\t_avchat_avatar_default.png"
+    },
+    {
         "merged": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\t_avchat_avatar_default.png",
         "source": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\demo\\res\\drawable-xxhdpi\\t_avchat_avatar_default.png"
+    },
+    {
+        "merged": "E:\\software\\SmartGit Clone\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_stat_notify_msg.png",
+        "source": "E:\\software\\SmartGit Clone\\nim_demo\\demo\\res\\drawable-xxhdpi\\ic_stat_notify_msg.png"
     },
     {
         "merged": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_logo.png",
@@ -10,5 +18,9 @@
     {
         "merged": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_stat_notify_msg.png",
         "source": "E:\\development\\NIM_Android_Demo_v4.2.0\\nim_demo\\demo\\res\\drawable-xxhdpi\\ic_stat_notify_msg.png"
+    },
+    {
+        "merged": "E:\\software\\SmartGit Clone\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_logo.png",
+        "source": "E:\\software\\SmartGit Clone\\nim_demo\\demo\\res\\drawable-xxhdpi\\ic_logo.png"
     }
 ]
